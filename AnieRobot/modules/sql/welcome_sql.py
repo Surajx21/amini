@@ -1,7 +1,7 @@
 import threading
 from typing import Union
 
-from sqlalchemy import Column, String, Boolean, UnicodeText, BigInteger, BigBigInteger
+from sqlalchemy import Column, String, Boolean, UnicodeText, BigInteger
 
 from AnieRobot.modules.helper_funcs.msg_types import Types
 from AnieRobot.modules.sql import SESSION, BASE
