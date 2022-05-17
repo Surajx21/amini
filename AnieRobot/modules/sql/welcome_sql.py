@@ -7,7 +7,7 @@ from AnieRobot.modules.helper_funcs.msg_types import Types
 from AnieRobot.modules.sql import SESSION, BASE
 
 DEFAULT_WELCOME = "Hey {first}, Welcome to {chatname}! how are you?"
-DEFAULT_GOODBYE = "Nice To Know You Gey😏!"
+DEFAULT_GOODBYE = "we not gonna miss you😏!"
 
 
 class Welcome(BASE):
